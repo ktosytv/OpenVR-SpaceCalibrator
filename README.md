@@ -33,7 +33,7 @@ To calibrate:
    > You will only have to do this once. Connect your VR headset and start SteamVR. Then go to space calibrator's window (it will be minimised), and click the "Copy Chaperone" button.
 
 2. Open the SteamVR dashboard. At the bottom, click on the Space Calibrator icon.
-3. In the Space Calibrator overlay, you'll see two lists at the top. On the left `Reference Space` column, select the controller you'll be calibrating along (e.g. Quest controller, Pico controller). On the right `Target Space`, select your SteamVR tracker (e.g. Vive Ultimate Tracker, Vive Tracker 3.0, Vive Ultimate Tracker). You can use the Identify button to make the controllers blink and tracker LEDs flash to see if you've selected the correct ones.
+3. In the Space Calibrator overlay, you'll see two lists at the top. On the left `Reference Space` column, select the controller you'll be calibrating along (e.g. Quest controller, Pico controller). On the right `Target Space`, select your SteamVR tracker (e.g. Vive Ultimate Tracker, Vive Tracker 3.0, Tundra Tracker). You can use the Identify button to make the controllers blink and tracker LEDs flash to see if you've selected the correct ones.
 4. Click the "Start calibration" button, and start calibrating.
 
 ## Continuous Calibration
